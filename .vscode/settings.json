@@ -1,0 +1,7 @@
+{
+  "editor.guides.bracketPairs": true,
+  "editor.guides.bracketPairsHorizontal": "active",
+  "editor.guides.highlightActiveBracketPair": true,
+  "editor.autoClosingBrackets": "languageDefined",
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": false
+}
